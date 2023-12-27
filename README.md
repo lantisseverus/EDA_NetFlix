@@ -13,3 +13,5 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 - Identifying similar content by matching text-based features
 - Network analysis of Actors / Directors and find interesting insights
 - Is Netflix has increasingly focusing on TV rather than movies in recent years.
+
+https://www.kaggle.com/code/ezzaldin6/eda-of-netflix-contents/notebook
