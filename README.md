@@ -32,4 +32,4 @@ aired in multiple countries, and this requires advanced text-extracting skills o
 
 limited to 2016 to 2019, when the period is too short to be representative.
 
-Had had more information like the content genre, subscribers over years, views data, more insightful data analysis and statistics hypothesis could have been applied to this dataset.
+Had had more information like the content genre, subscribers over years, views data, budget, etc. more insightful data analysis and statistics hypothesis could have been applied to this dataset.
